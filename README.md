@@ -14,7 +14,7 @@
 - Avg Course Progress: 47.33%
 
 ## 📷 Dashboard Preview
-photo_2026-06-10_12-54-22.jpg
+https://github.com/Dinara-dev/dinara-eduhub-dashboard/blob/main/photo_2026-06-10_12-54-22.jpg
 
 ## 🔗 Dataset
 EduHub sample dataset (education center data)
