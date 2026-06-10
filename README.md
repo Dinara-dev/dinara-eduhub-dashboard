@@ -41,7 +41,7 @@ across EduHub education centers in Uzbekistan (2023–2025).
 Tashkent • Namangan • Andijan • Bukhara • Samarkand
 
 ## 📷 Dashboard Preview
-https://github.com/Dinara-dev/dinara-eduhub-dashboard/blob/main/photo_2026-06-10_12-54-22.jpg
+https://github.com/Dinara-dev/dinara-eduhub-dashboard/blob/main/EduHub-dashboard.jpg
 
 ## 🔗 Dataset
 EduHub sample dataset (education center data)
