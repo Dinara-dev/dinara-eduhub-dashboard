@@ -13,6 +13,8 @@
 - YoY Fee Change: -2%
 - Avg Course Progress: 47.33%
 
+## 📷 Dashboard Preview
+![Dashboard Preview](assets/screenshot.png)
 
 ## 🔗 Dataset
 EduHub sample dataset (education center data)
