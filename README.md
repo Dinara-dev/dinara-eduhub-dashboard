@@ -14,7 +14,7 @@
 - Avg Course Progress: 47.33%
 
 ## 📷 Dashboard Preview
-<img width="1442" height="797" alt="image" src="https://github.com/user-attachments/assets/c928c7e3-051f-4c4d-a379-73330f2da61f" />
+photo_2026-06-10_12-54-22.jpg
 
 ## 🔗 Dataset
 EduHub sample dataset (education center data)
