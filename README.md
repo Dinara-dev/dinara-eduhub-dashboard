@@ -20,7 +20,7 @@ https://github.com/Dinara-dev/dinara-eduhub-dashboard/blob/main/photo_2026-06-10
 EduHub sample dataset (education center data)
 
 ## 👩‍💻 Author
-**Dinara**  
+**Dinara Sagdullaeva**  
 Junior Data Analyst | Power BI Developer  
 📍 Tashkent, Uzbekistan  
 🔗 [LinkedIn](https://www.linkedin.com/in/dinara-sagdullaeva-b67740349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/Dinara-dev) | [hh.uz](https://hh.uz/resume/a4989dcdff0ebf1b140039ed1f455a4e673477)
